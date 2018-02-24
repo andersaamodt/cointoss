@@ -46,7 +46,7 @@ Prerequiste: [Install holochain](https://github.com/metacurrency/holochain/#inst
 You can install cointoss very simply with this:
 
 ``` shell
-hcdev init -cloneExample=cointoss
+hcdev init --cloneExample=cointoss
 
 ```
 
